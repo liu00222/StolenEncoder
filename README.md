@@ -1,4 +1,4 @@
-# [StolenEncoder](https://arxiv.org/abs/2201.05889)
+# [StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning](https://arxiv.org/abs/2201.05889)
 
 
 
